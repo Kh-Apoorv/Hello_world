@@ -1,2 +1,2 @@
-# Hello_world
+# simple calculator
 my first repository
